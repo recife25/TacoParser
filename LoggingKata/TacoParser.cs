@@ -1,4 +1,5 @@
-﻿namespace LoggingKata
+﻿//Felipe Ruiz - aka Phil - nc-csharp-8-v1
+namespace LoggingKata
 {
     /// <summary>
     /// Parses a POI file to locate all the Taco Bells

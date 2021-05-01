@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Felipe Ruiz - aka Phil - nc-csharp-8-v1
+using System;
 using System.Linq;
 using System.IO;
 using GeoCoordinatePortable;
